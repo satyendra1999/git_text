@@ -1,0 +1,19 @@
+ ls
+ ls -l
+ rm texting.py        
+ git init
+ dir
+ cls
+ git status
+   ls
+   git status
+   cls
+   git add testing.py   
+   git status
+   git commit -m "add...
+   git status
+   rm testing.py        
+   ls
+   git status
+   git restore testin...
+   cls
